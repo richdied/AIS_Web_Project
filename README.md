@@ -1,0 +1,21 @@
+# Tasks
+
+- [x] Typescript set
+- [x] React-router-dom set
+- [x] Styled-components set up
+- [x] Styled-components styled-reset
+- [x] Styled-components global style
+- [ ] Styled-components dark mode theme set
+- [x] React-hook-form set up
+- [x] Form validation set
+- [x] Html validation set
+- [x] Error message for form
+- [x] Highlight fields, which have errors
+- [x] Check if password and re-password match after submitted
+- [x] Search address with doro-juso API
+- [x] Check if id is occupied already
+- [x] Email host address auto-set by selection
+- [x] Address auto-set by search and clicking
+- [x] Global navigation added
+- [x] Home page added
+- [x] Footer added

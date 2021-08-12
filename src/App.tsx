@@ -13,6 +13,7 @@ import { Notfound } from "./pages/Notfound";
 import { Signup } from "./pages/Signup";
 import { GlobalStyle } from "./styles/GlobalStyle";
 import { darkTheme, whiteTheme } from "./styles/theme";
+// import "./app.css";
 
 const SAppContainer = styled.div`
   width: 100vw;
